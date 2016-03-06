@@ -1,0 +1,78 @@
+{
+    "id": 1,
+    "city": "Borisov",
+    "place": "Square",
+    "price": 15654.5,
+    "deadline": 1456520384,
+    "quantity": 8,
+    "imageHeight": 250,
+    "imageWidth": 250,
+    "digitalProcessing": false,
+    "extras": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "userModel": {
+        "id": 57,
+        "name": "Cheek",
+        "avatar": "http://img.dummy-image-generator.com/people/dummy-400x400-ShandiLee.jpg"
+    },
+    "bids": [
+        {
+            "id": 1,
+            "name": "De Niro",
+            "avatar": "http://img.dummy-image-generator.com/people/dummy-400x400-RobertDeNiro.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "url": "http://dummy-images.com/abstract/dummy-683x1024-Bottles.jpg",
+                    "width": 683,
+                    "height": 1024,
+                    "thumbnail": "http://img.dummy-image-generator.com/abstract/dummy-67x100-Bottles.jpg",
+                    "dominantColor": 9672604,
+                    "ownerId": 1
+                },
+                {
+                    "id": 3,
+                    "url": "http://dummy-image-generator.com/abstract/dummy-4000x3000-Stripes.jpg",
+                    "width": 4000,
+                    "height": 3000,
+                    "thumbnail": "http://img.dummy-image-generator.com/abstract/dummy-100x75-Stripes.jpg",
+                    "dominantColor": 2304312,
+                    "ownerId": 1
+                },
+                {
+                    "id": 6,
+                    "url": "http://dummy-images.com/abstract/dummy-540x960-Goemetry.jpg",
+                    "width": 540,
+                    "height": 96,
+                    "thumbnail": "http://img.dummy-image-generator.com/abstract/dummy-54x96-Goemetry.jpg",
+                    "dominantColor": 4737612,
+                    "ownerId": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cesar",
+            "avatar": "http://img.dummy-image-generator.com/people/dummy-400x400-Centurion.jpg",
+            "images": [
+                {
+                    "id": 2,
+                    "url": "http://dummy-images.com/buildings/dummy-1000x1000-Entrance.jpg",
+                    "width": 1000,
+                    "height": 1000,
+                    "thumbnail": "http://img.dummy-image-generator.com/buildings/dummy-100x100-Entrance.jpg",
+                    "dominantColor": 13419715,
+                    "ownerId": 2
+                },
+                {
+                    "id": 72,
+                    "url": "http://dummy-images.com/nature/dummy-926x1500-Ocean.jpg",
+                    "width": 926,
+                    "height": 1500,
+                    "thumbnail": "http://img.dummy-image-generator.com/nature/dummy-62x100-Ocean.jpg",
+                    "dominantColor": 13098231,
+                    "ownerId": 2
+                }
+            ]
+        }
+    ]
+}

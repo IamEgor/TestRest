@@ -1,0 +1,251 @@
+[{
+  "id": 1,
+  "shortDescription": "Opn skul base fx-concuss",
+  "fullDescription": "Open fracture of base of skull without mention of intracranial injury, with concussion, unspecified",
+  "price": "$93.35"
+}, {
+  "id": 2,
+  "shortDescription": "Fem pelvic periton adhes",
+  "fullDescription": "Pelvic peritoneal adhesions, female (postoperative) (postinfection)",
+  "price": "$116.97"
+}, {
+  "id": 3,
+  "shortDescription": "Cong breast anomaly NEC",
+  "fullDescription": "Specified congenital anomalies of breast",
+  "price": "$60.03"
+}, {
+  "id": 4,
+  "shortDescription": "Nursemaid's elbow",
+  "fullDescription": "Nursemaid's elbow",
+  "price": "$128.69"
+}, {
+  "id": 5,
+  "shortDescription": "Transfusion reaction NOS",
+  "fullDescription": "Transfusion reaction, unspecified",
+  "price": "$30.02"
+}, {
+  "id": 6,
+  "shortDescription": "Vrnt mgrn w ntrc mgr NEC",
+  "fullDescription": "Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus",
+  "price": "$34.61"
+}, {
+  "id": 7,
+  "shortDescription": "Damage to pelvic jt-del",
+  "fullDescription": "Damage to pelvic joints and ligaments, delivered, with or without mention of antepartum condition",
+  "price": "$97.41"
+}, {
+  "id": 8,
+  "shortDescription": "Oth leuk w/o achv rmsn",
+  "fullDescription": "Other specified leukemia, without mention of having achieved remission",
+  "price": "$178.53"
+}, {
+  "id": 9,
+  "shortDescription": "Recur dislocat-ankle",
+  "fullDescription": "Recurrent dislocation of joint, ankle and foot",
+  "price": "$19.79"
+}, {
+  "id": 10,
+  "shortDescription": "Ch DVT/embl prox low ext",
+  "fullDescription": "Chronic venous embolism and thrombosis of deep vessels of proximal lower extremity",
+  "price": "$92.77"
+}, {
+  "id": 11,
+  "shortDescription": "3rd burn w loss-forearm",
+  "fullDescription": "Deep necrosis of underlying tissues [deep third degree) with loss of a body part, of forearm",
+  "price": "$96.34"
+}, {
+  "id": 12,
+  "shortDescription": "Old magnet fb, eye NEC",
+  "fullDescription": "Intraocular foreign body, magnetic, in other or multiple sites",
+  "price": "$26.94"
+}, {
+  "id": 13,
+  "shortDescription": "T7-t12 fx-cl/com crd les",
+  "fullDescription": "Closed fracture of T7-T12 level with complete lesion of cord",
+  "price": "$149.33"
+}, {
+  "id": 14,
+  "shortDescription": "Malig neo brain NOS",
+  "fullDescription": "Malignant neoplasm of brain, unspecified",
+  "price": "$130.34"
+}, {
+  "id": 15,
+  "shortDescription": "Allerg alveol/pneum NOS",
+  "fullDescription": "Unspecified allergic alveolitis and pneumonitis",
+  "price": "$17.20"
+}, {
+  "id": 16,
+  "shortDescription": "Histoplasm capsul mening",
+  "fullDescription": "Infection by Histoplasma capsulatum, meningitis",
+  "price": "$7.09"
+}, {
+  "id": 17,
+  "shortDescription": "Peritoneal dialysis test",
+  "fullDescription": "Encounter for adequacy testing for peritoneal dialysis",
+  "price": "$105.68"
+}, {
+  "id": 18,
+  "shortDescription": "Insect bite trunk",
+  "fullDescription": "Insect bite, nonvenomous of trunk, without mention of infection",
+  "price": "$120.34"
+}, {
+  "id": 19,
+  "shortDescription": "React-inter joint prost",
+  "fullDescription": "Infection and inflammatory reaction due to internal joint prosthesis",
+  "price": "$138.25"
+}, {
+  "id": 20,
+  "shortDescription": "Subac scleros panenceph",
+  "fullDescription": "Subacute sclerosing panencephalitis",
+  "price": "$8.68"
+}, {
+  "id": 21,
+  "shortDescription": "Secondry iritis, infect",
+  "fullDescription": "Secondary iridocyclitis, infectious",
+  "price": "$14.17"
+}, {
+  "id": 22,
+  "shortDescription": "Prolonged preg-del",
+  "fullDescription": "Prolonged pregnancy, delivered, with or without mention of antepartum condition",
+  "price": "$48.60"
+}, {
+  "id": 23,
+  "shortDescription": "No proc/contraindication",
+  "fullDescription": "Surgical or other procedure not carried out because of contraindication",
+  "price": "$31.04"
+}, {
+  "id": 24,
+  "shortDescription": "Hypertrophy adenoids",
+  "fullDescription": "Hypertrophy of adenoids alone",
+  "price": "$65.09"
+}, {
+  "id": 25,
+  "shortDescription": "Hot substance accid NOS",
+  "fullDescription": "Accident caused by unspecified hot substance or object",
+  "price": "$110.19"
+}, {
+  "id": 26,
+  "shortDescription": "Observ-work accident",
+  "fullDescription": "Observation following accident at work",
+  "price": "$141.80"
+}, {
+  "id": 27,
+  "shortDescription": "Malign neopl vallecula",
+  "fullDescription": "Malignant neoplasm of vallecula epiglottica",
+  "price": "$109.07"
+}, {
+  "id": 28,
+  "shortDescription": "Insect bite hip & leg",
+  "fullDescription": "Insect bite, nonvenomous, of hip, thigh, leg, and ankle, without mention of infection",
+  "price": "$41.83"
+}, {
+  "id": 29,
+  "shortDescription": "Hx-antibiot allergy NEC",
+  "fullDescription": "Personal history of allergy to other antibiotic agent",
+  "price": "$195.47"
+}, {
+  "id": 30,
+  "shortDescription": "Abscess of liver",
+  "fullDescription": "Abscess of liver",
+  "price": "$63.01"
+}, {
+  "id": 31,
+  "shortDescription": "Ben hyp ht/kd stg V w hf",
+  "fullDescription": "Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease",
+  "price": "$105.93"
+}, {
+  "id": 32,
+  "shortDescription": "Equatorial staphyloma",
+  "fullDescription": "Equatorial staphyloma",
+  "price": "$161.98"
+}, {
+  "id": 33,
+  "shortDescription": "Maj puerp infec NEC-p/p",
+  "fullDescription": "Other major puerperal infection, postpartum condition or complication",
+  "price": "$39.32"
+}, {
+  "id": 34,
+  "shortDescription": "Cerv incompet preg-unsp",
+  "fullDescription": "Cervical incompetence, unspecified as to episode of care or not applicable",
+  "price": "$81.92"
+}, {
+  "id": 35,
+  "shortDescription": "Benign neoplasm vagina",
+  "fullDescription": "Benign neoplasm of vagina",
+  "price": "$187.38"
+}, {
+  "id": 36,
+  "shortDescription": "Toxic eff carbon tetrach",
+  "fullDescription": "Toxic effect of carbon tetrachloride",
+  "price": "$122.03"
+}, {
+  "id": 37,
+  "shortDescription": "Anemia-other chronic dis",
+  "fullDescription": "Anemia of other chronic disease",
+  "price": "$123.43"
+}, {
+  "id": 38,
+  "shortDescription": "Ureteral anomaly NEC",
+  "fullDescription": "Other specified anomalies of ureter",
+  "price": "$185.88"
+}, {
+  "id": 39,
+  "shortDescription": "Burn acc in privat dwell",
+  "fullDescription": "Accident caused by controlled fire in private dwelling",
+  "price": "$195.97"
+}, {
+  "id": 40,
+  "shortDescription": "Hypoact labyrinth unilat",
+  "fullDescription": "Hypoactive labyrinth, unilateral",
+  "price": "$145.27"
+}, {
+  "id": 41,
+  "shortDescription": "Accid in resident instit",
+  "fullDescription": "Accidents occurring in residential institution",
+  "price": "$103.58"
+}, {
+  "id": 42,
+  "shortDescription": "Extradur hem-proln coma",
+  "fullDescription": "Extradural hemorrhage following injury without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",
+  "price": "$33.37"
+}, {
+  "id": 43,
+  "shortDescription": "Aftrcre surg MS syst NEC",
+  "fullDescription": "Aftercare following surgery of the musculoskeletal system, NEC",
+  "price": "$19.09"
+}, {
+  "id": 44,
+  "shortDescription": "Ac allergic serous OM",
+  "fullDescription": "Acute allergic serous otitis media",
+  "price": "$127.94"
+}, {
+  "id": 45,
+  "shortDescription": "Fx cervical vert NOS-opn",
+  "fullDescription": "Open fracture of cervical vertebra, unspecified level",
+  "price": "$40.54"
+}, {
+  "id": 46,
+  "shortDescription": "Foreign bdy foot/toe-inf",
+  "fullDescription": "Superficial foreign body (splinter) of foot and toe(s), without major open wound, infected",
+  "price": "$63.48"
+}, {
+  "id": 47,
+  "shortDescription": "Aircrft acc NEC-military",
+  "fullDescription": "Other specified air transport accidents injuring occupant of military aircraft, any",
+  "price": "$73.78"
+}, {
+  "id": 48,
+  "shortDescription": "Tox w old hyper-postpart",
+  "fullDescription": "Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, postpartum condition or complication",
+  "price": "$96.90"
+}, {
+  "id": 49,
+  "shortDescription": "Lactat dis NEC-postpart",
+  "fullDescription": "Other disorders of lactation, postpartum condition or complication",
+  "price": "$140.22"
+}, {
+  "id": 50,
+  "shortDescription": "Cryptococcosis",
+  "fullDescription": "Cryptococcosis",
+  "price": "$93.60"
+}]
