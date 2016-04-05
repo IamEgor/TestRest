@@ -1,14 +1,22 @@
 {
     "id": 1,
-    "city": "Borisov",
-    "place": "Square",
     "price": 15654.5,
     "deadline": 1456520384,
     "quantity": 8,
     "imageHeight": 250,
     "imageWidth": 250,
     "digitalProcessing": false,
-    "extras": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "extras": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. AllOrdersJsonModel the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "place": {
+        "id": "ChIJacr26xG2xUcRkZUjD0FSNgk",
+        "address": "Van der Krukwater 12, 2497 ZT Den Haag, Нидерланды",
+        "name": "Gjvtextiles B.V.",
+        "latLng": {
+            "mVersionCode": 1,
+            "latitude": 52.036918799999995,
+            "longitude": 4.373959699999999
+        }
+    },
     "userModel": {
         "id": 57,
         "name": "Cheek",
