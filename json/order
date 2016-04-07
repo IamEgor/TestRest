@@ -1,0 +1,18 @@
+{
+    "ownerId": 1,
+    "price": 25.5,
+    "minWidth": 1400,
+    "minHeight": 2000,
+    "digitalProcessing": true,
+    "additional": "The generated Lorem Ipsum is therefore always free from repetition",
+    "categories": [
+        "Cars||Fashion||Animals"
+    ],
+    "place": {
+        "id": "ChIJacr26xG2xUcRkZUjD0FSNgk",
+        "address": "Van der Krukwater 12, 2497 ZT Den Haag, Нидерланды",
+        "name": "Gjvtextiles B.V.",
+        "latitude": 52.036918799999995,
+        "longitude": 4.373959699999999
+    }
+}
