@@ -1,28 +1,25 @@
 {
-    "id": 1,
-    "price": 15654.5,
-    "deadline": 1456520384,
+    "orderId": 1,
     "quantity": 8,
-    "imageHeight": 250,
-    "imageWidth": 250,
+    "minHeight": 1250,
+    "minWidth": 1250,
     "digitalProcessing": false,
-    "extras": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. AllOrdersJsonModel the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "additional": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. AllOrdersJsonModel the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "postTime": 1456320384,
+    "deadline": 1456520384,
+    "price": {
+        "prise": 25.3,
+        "currency": "USD",
+        "symbol": "$"
+    },
     "place": {
         "id": "ChIJacr26xG2xUcRkZUjD0FSNgk",
         "address": "Van der Krukwater 12, 2497 ZT Den Haag, Нидерланды",
         "name": "Gjvtextiles B.V.",
-        "latLng": {
-            "mVersionCode": 1,
-            "latitude": 52.036918799999995,
-            "longitude": 4.373959699999999
-        }
+        "latitude": 52.036918799999995,
+        "longitude": 4.373959699999999
     },
-    "userModel": {
-        "id": 57,
-        "name": "Cheek",
-        "avatar": "http://img.dummy-image-generator.com/people/dummy-400x400-ShandiLee.jpg"
-    },
-    "bids": [
+    "executors": [
         {
             "id": 1,
             "name": "De Niro",
