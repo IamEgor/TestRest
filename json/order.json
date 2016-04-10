@@ -1,13 +1,22 @@
 {
-    "ownerId": 1,
-    "price": 25.5,
-    "minWidth": 1400,
-    "minHeight": 2000,
-    "digitalProcessing": true,
-    "additional": "The generated Lorem Ipsum is therefore always free from repetition",
+    "OrderId": 1,
     "categories": [
-        "Cars||Fashion||Animals"
+        "Black and White",
+        "Fashion",
+        "Journalism"
     ],
+    "quantity": 8,
+    "minWidth": 720,
+    "minHeight": 1280,
+    "digitalProcessing": false,
+    "additional": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in ",
+    "postTime": 153515152,
+    "deadline": 153715152,
+    "price": {
+        "amount": 25.5,
+        "currency": "USD",
+        "symbol": "$"
+    },
     "place": {
         "id": "ChIJacr26xG2xUcRkZUjD0FSNgk",
         "address": "Van der Krukwater 12, 2497 ZT Den Haag, Нидерланды",
