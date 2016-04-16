@@ -37,7 +37,7 @@
         "price": {
             "amount": 239.75,
             "currency": "IDR",
-            "symbol": "$4.11"
+            "symbol": "Rp"
         },
         "place": {
             "id": "1HpywVyYL4MtJ1mTpYK32HuJtARDELjwhk",
@@ -58,7 +58,7 @@
         "price": {
             "amount": 78,
             "currency": "IDR",
-            "symbol": "$2.93"
+            "symbol": "Rp"
         },
         "place": {
             "id": "1KkF22XPM5TzAMbQB3Udo5EK8hWd3iWjuh",
@@ -96,7 +96,7 @@
         "price": {
             "amount": 63.4,
             "currency": "TND",
-            "symbol": "$1.99"
+            "symbol": "DT"
         },
         "place": {
             "id": "1KiNJfFaG5NhXYBGtTi72yWm5xo21q7m5S",
@@ -117,7 +117,7 @@
         "price": {
             "amount": 37.22,
             "currency": "PHP",
-            "symbol": "$7.58"
+            "symbol": "₱"
         },
         "place": {
             "id": "1ABjF9dz31mB7ka56eXuMAeE1pMXmRLR4h",
@@ -139,7 +139,7 @@
         "price": {
             "amount": 249.44,
             "currency": "CNY",
-            "symbol": "$7.41"
+            "symbol": "¥"
         },
         "place": {
             "id": "1LAjbuVoLehfir53EKacStf2or7Vq72wMF",
@@ -171,7 +171,7 @@
         "price": {
             "amount": 248.12,
             "currency": "CNY",
-            "symbol": "$0.20"
+            "symbol": "¥"
         }
     }
 ]
