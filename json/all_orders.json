@@ -50,7 +50,7 @@
     {
         "ownerId": 4,
         "url": "http://state.tx.us/ultrices.json",
-         "categories": [
+        "categories": [
             "Pinhole"
         ],
         "postTime": 153026505,
@@ -87,8 +87,8 @@
     },
     {
         "ownerId": 6,
-        "url": "https://nih.gov/sit/amet/cursus/id/turpis/integer/aliquet.jpg
-         "categories": [
+        "url": "https://nih.gov/sit/amet/cursus/id/turpis/integer/aliquet.jpg",
+        "categories": [
             "Pinhole"
         ],
         "postTime": 153498922,
@@ -109,7 +109,7 @@
     {
         "ownerId": 7,
         "url": "https://nasa.gov/velit/vivamus/vel.aspx",
-         "categories": [
+        "categories": [
             "Pinhole"
         ],
         "postTime": 153512863,
