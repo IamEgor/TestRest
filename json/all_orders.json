@@ -50,6 +50,9 @@
     {
         "ownerId": 4,
         "url": "http://state.tx.us/ultrices.json",
+         "categories": [
+            "Pinhole"
+        ],
         "postTime": 153026505,
         "deadline": 153516307,
         "price": {
@@ -84,7 +87,10 @@
     },
     {
         "ownerId": 6,
-        "url": "https://nih.gov/sit/amet/cursus/id/turpis/integer/aliquet.jpg",
+        "url": "https://nih.gov/sit/amet/cursus/id/turpis/integer/aliquet.jpg
+         "categories": [
+            "Pinhole"
+        ],
         "postTime": 153498922,
         "deadline": 153519104,
         "price": {
@@ -103,6 +109,9 @@
     {
         "ownerId": 7,
         "url": "https://nasa.gov/velit/vivamus/vel.aspx",
+         "categories": [
+            "Pinhole"
+        ],
         "postTime": 153512863,
         "deadline": 153517646,
         "price": {
