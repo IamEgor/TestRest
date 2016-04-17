@@ -21,7 +21,8 @@
         "ownerId": 2,
         "url": "https://earthlink.net/nunc/vestibulum/ante/ipsum/primis.js",
         "categories": [
-            "Pinhole"
+            "Rural",
+            "Nature"
         ],
         "postTime": 1452836348,
         "deadline": 1455384111
@@ -51,7 +52,9 @@
         "ownerId": 4,
         "url": "http://state.tx.us/ultrices.json",
         "categories": [
-            "Pinhole"
+            "Sports",
+            "Vehicle",
+            "Fashion"
         ],
         "postTime": 1454207327,
         "deadline": 1454341587,
@@ -110,7 +113,8 @@
         "ownerId": 7,
         "url": "https://nasa.gov/velit/vivamus/vel.aspx",
         "categories": [
-            "Pinhole"
+            "Performance",
+            "Expression"
         ],
         "postTime": 1453556241,
         "deadline": 1456236307,
